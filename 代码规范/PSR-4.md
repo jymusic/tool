@@ -58,7 +58,7 @@ PSR-4 自动加载
 | \Symfony\Core\Request         | Symfony\Core       | ./vendor/Symfony/Core/   | ./vendor/Symfony/Core/Request.php
 | \Zend\Acl                     | Zend               | /usr/includes/Zend/      | /usr/includes/Zend/Acl.php
 
-例子中的自动载入器非常适应这个指南，请参照 [示例文件][]。由于可能随时变更，实例不能作为指南的一部分。
+>[info]例子中的自动载入器非常适应这个指南，请参照 [示例文件][]。由于可能随时变更，实例不能作为指南的一部分。
 
 [自动载入]: http://php.net/autoload
 [示例文件]: http://www.php-fig.org/psr/psr-4/PSR-4-autoloader-examples.md
