@@ -7,7 +7,7 @@
 [RFC 2119][]中的`必须(MUST)`，`不可(MUST NOT)`，`建议(SHOULD)`，`不建议(SHOULD NOT)`，`可以/可能(MAY)`等关键词将在本节用来做一些解释性的描述。
 
 [RFC 2119]: http://www.ietf.org/rfc/rfc2119.txt
-[PSR-0]: https://github.com/hfcorriez/fig-standards/blob/zh_CN/接受/PSR-0.md
+[PSR-4]: https://github.com/jymusic/tool/blob/master/代码规范/PSR-4.md
 
 
 1. 概述
@@ -19,7 +19,7 @@
 
 - 一个源文件`建议`只用来做声明（`类(class)`，`函数(function)`，`常量(constant)`等）或者只用来做一些引起副作用的操作（例如：输出信息，修改`.ini`配置等）,但`不建议`同时做这两件事。
 
-- `命名空间(namespace)`和`类(class)` `必须`遵守[PSR-0][]标准。
+- `命名空间(namespace)`和`类(class)` `必须`遵守[PSR-4][]标准（PSR-0 已被弃用）。
 
 - `类名(class name)` `必须`使用`骆驼式(StudlyCaps)`写法 (译者注：`驼峰式(cameCase)`的一种变种，后文将直接用`StudlyCaps`表示)。
 
