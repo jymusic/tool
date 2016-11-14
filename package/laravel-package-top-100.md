@@ -6,9 +6,6 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而活跃的开发者社区带来的，
 
 相信下面这 100 个扩展包会让你的编码更加高效 :beers:
 
-> 讨论请前往：https://phphub.org/topics/2530 ，放 GitHub 上方便跟踪修改和接受 PR。
-
-> 转载请注明来自于 PHPHub，并贴上本文章链接：https://phphub.org/topics/2530
 
 ## 排名
 
@@ -114,3 +111,5 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而活跃的开发者社区带来的，
 | 98 | 57174 | 348 | [lord/laroute](https://github.com/aaronlord/laroute) | JavaScript 读取路由信息的解决方案 |
 | 99 | 57053 | 643 | [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) | Google 统计数据获取工具 |
 | 100 | 56639 | 118 | [hieu-le/active](https://github.com/letrunghieu/active) | 非常方便的方案来判断导航元素的 `active` 状态 |
+
+> 转载自 PHPHub，文章链接：https://phphub.org/topics/2530
