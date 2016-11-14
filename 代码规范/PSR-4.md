@@ -1,0 +1,60 @@
+PSR-4 自动加载
+================
+
+## 1.概述
+本 PSR 是关于由文件路径 自动载入 对应类的相关规范，
+
+本规范是可互操作的，可以作为任一自动载入规范的补充，其中包括 PSR-0，此外，
+
+本 PSR 还包括自动载入的类对应的文件存放路径规范。
+
+### 关于「能愿动词」的使用
+
+- 为了避免歧义，文档大量使用了「能愿动词」，对应的解释如下：
+
+- 必须 (MUST)：绝对，严格遵循，请照做，无条件遵守；
+- 一定不可 (MUST NOT)：禁令，严令禁止；
+- 应该 (SHOULD) ：强烈建议这样做，但是不强求；
+- 不该 (SHOULD NOT)：强烈不建议这样做，但是不强求；
+- 可以 (MAY) 和 可选 (OPTIONAL) ：选择性高一点，在这个文档内，此词语使用较少；
+
+## 2. 详细说明（Specification）
+
+1. 此处的「类」泛指所有的「Class类」、「接口」、「traits 可复用代码块」以及其它类似结构。
+
+2. 一个完整的类名需具有以下结构:：
+
+    \<NamespaceName>(\<SubNamespaceNames>)*\<ClassName>
+
+    1. 完全限定类名必须有一个顶级命名空间（Vendor Name）；
+    2. 完全限定类名可以有多个子命名空间；
+    3. 完全限定类名应该有一个终止类名；
+    4. 下划线在完全限定类名中是没有特殊含义的；
+    5. 字母在完全限定类名中可以是任何大小写的组合；
+    6. 所有类名必须以大小写敏感的方式引用；
+
+3. 当从完全限定类名载入文件时：
+
+    1. 在完全限定类名中，连续的一个或几个子命名空间构成的命名空间前缀（不包括顶级命名空间的分隔符），至少对应着至少一个基础目录。
+    2. 在「命名空间前缀」后的连续子命名空间名称对应一个「基础目录」下的子目录，其中的命名
+空间分隔符表示目录分隔符。子目录名称必须和子命名空间名大小写匹配；
+    3. 终止类名对应一个以 `.php` 结尾的文件。文件名必须和终止类名大小写匹配；
+
+4. 自动载入器的实现不可抛出任何异常，不可引发任何等级的错误；也不应返回值；
+
+## 3. 范例
+
+如下表格展示的是与完全限定类名、命名空间前缀和基础目录相对应的文件路径：
+
+| 完全限定类名                    | 命名空间前缀       | 基础目录                 | 实际的文件路径
+| ----------------------------- |--------------------|--------------------------|-------------------------------------------
+| \Acme\Log\Writer\File_Writer  | Acme\Log\Writer    | ./acme-log-writer/lib/   | ./acme-log-writer/lib/File_Writer.php
+| \Aura\Web\Response\Status     | Aura\Web           | /path/to/aura-web/src/   | /path/to/aura-web/src/Response/Status.php
+| \Symfony\Core\Request         | Symfony\Core       | ./vendor/Symfony/Core/   | ./vendor/Symfony/Core/Request.php
+| \Zend\Acl                     | Zend               | /usr/includes/Zend/      | /usr/includes/Zend/Acl.php
+
+例子中的自动载入器非常适应这个指南，请参照 [示例文件][]。由于可能随时变更，实例不能作为指南的一部分。
+
+[自动载入]: http://php.net/autoload
+[PSR-0]: https://github.com/hfcorriez/fig-standards/tree/master/accepted/zh_CN/PSR-0.md
+[示例文件]: http://www.php-fig.org/psr/psr-4/PSR-4-autoloader-examples.md
