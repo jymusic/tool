@@ -7,5 +7,9 @@
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | | Monolog是php下比较全又容易扩展的记录日志组件. |
 | [dingo/api](https://github.com/Intervention/image) | | 构建 API 服务器的完整解决方案. |
 | [thephpleague/flysystem](http://flysystem.thephpleague.com) | | Flysystem 提供了强大的文件系统抽象管理. |
+| [overtrue/wechat](https://github.com/overtrue/wechat) | | EasyWeChat 是一个开源的 微信 非官方 SDK. |
+| [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) | | 微信公众平台php开发包, weixin developer SDK.. |
+| [overtrue/pinyin](https://github.com/overtrue/pinyin) | | 基于词库的中文转拼音优质解决方案. |
+
 
 
