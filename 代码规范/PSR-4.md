@@ -27,7 +27,7 @@ PSR-4 自动加载
 
 2. 一个完整的类名需具有以下结构:：
 
-    \<NamespaceName>(\<SubNamespaceNames>)*\<ClassName>
+    ~~\<命名空间>(\<子命名空间>)*\<类名>
 
     1. 完全限定类名必须有一个顶级命名空间（Vendor Name）；
     2. 完全限定类名可以有多个子命名空间；
@@ -59,5 +59,4 @@ PSR-4 自动加载
 例子中的自动载入器非常适应这个指南，请参照 [示例文件][]。由于可能随时变更，实例不能作为指南的一部分。
 
 [自动载入]: http://php.net/autoload
-[PSR-0]: https://github.com/hfcorriez/fig-standards/tree/master/accepted/zh_CN/PSR-0.md
 [示例文件]: http://www.php-fig.org/psr/psr-4/PSR-4-autoloader-examples.md
