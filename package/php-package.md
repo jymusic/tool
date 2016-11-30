@@ -1,22 +1,27 @@
 
-| À©Õ¹°üµØÖ· | ÎÄµµµØÖ· | ÃèÊö |
+| æ‰©å±•åŒ…åœ°å€ | æ–‡æ¡£åœ°å€ | æè¿° |
 |---|---|---|
-| [guzzle/guzzle3](https://github.com/guzzle/guzzle) | | PHP HTTP ¿Í»§¶ËºÍ¿ò¼Ü. |
-| [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | | Ò»¸öÇáÁ¿¼¶µÄPHPÀà¼ì²âÒÆ¶¯Éè±¸(°üÀ¨Æ½°åµçÄÔ). |
-| [intervention/image](https://github.com/Intervention/image) | | Í¼Æ¬´¦ÀíÀ©Õ¹°ü£¬Ö§³Ö²Ã¼ô¡¢Ë®Ó¡µÈ´¦Àí. |
-| [avalanche123/Imagine](https://github.com/avalanche123/Imagine) | | PHP 5.3ÃæÏò¶ÔÏóµÄÍ¼Ïñ´¦Àí¿â. |
-| [ErikvdVen/php-gif](https://github.com/ErikvdVen/php-gif) | | php GIFÍ¼ÏñÉú³É. |
-| [coldume/imagecraft](https://github.com/coldume/imagecraft) | | Ò»¸ö¿É¿¿µÄºÍ¿ÉÀ©Õ¹µÄPHPÍ¼Ïñ´¦Àí¿â. |
-| [Seldaek/monolog](https://github.com/Seldaek/monolog) | | MonologÊÇphpÏÂ±È½ÏÈ«ÓÖÈİÒ×À©Õ¹µÄ¼ÇÂ¼ÈÕÖ¾×é¼ş. |
-| [dingo/api](https://github.com/Intervention/image) | | ¹¹½¨ API ·şÎñÆ÷µÄÍêÕû½â¾ö·½°¸. |
-| [thephpleague/flysystem](http://flysystem.thephpleague.com) | | Flysystem Ìá¹©ÁËÇ¿´óµÄÎÄ¼şÏµÍ³³éÏó¹ÜÀí. |
-| [thephpleague/glide](https://github.com/thephpleague/glide) | | »ùÓÚFlysystem °´ĞèÍ¼Ïñ´¦Àí¿â HTTP API. |
-| [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) | | Ò»¸öĞ¡ĞÍPHP¿âÉú³ÉÀàËÆyoutube´ÓÊı×Öid. |
-| [defuse/php-encryption](https://github.com/defuse/php-encryption) | | ¼òµ¥µÄPHP¼ÓÃÜ. |
-| [overtrue/wechat](https://github.com/overtrue/wechat) | | EasyWeChat ÊÇÒ»¸ö¿ªÔ´µÄ Î¢ĞÅ ·Ç¹Ù·½ SDK. |
-| [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) | | Î¢ĞÅ¹«ÖÚÆ½Ì¨php¿ª·¢°ü, weixin developer SDK.. |
-| [overtrue/pinyin](https://github.com/overtrue/pinyin) | | »ùÓÚ´Ê¿âµÄÖĞÎÄ×ªÆ´ÒôÓÅÖÊ½â¾ö·½°¸. |
-| [jasny/audio](https://github.com/jasny/audio) | | ´´½¨²¨ĞÎPNG. |
+| [guzzle/guzzle3](https://github.com/guzzle/guzzle) | | PHP HTTP å®¢æˆ·ç«¯å’Œæ¡†æ¶. |
+| [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | | ä¸€ä¸ªè½»é‡çº§çš„PHPç±»æ£€æµ‹ç§»åŠ¨è®¾å¤‡(åŒ…æ‹¬å¹³æ¿ç”µè„‘). |
+| [intervention/image](https://github.com/Intervention/image) | | å›¾ç‰‡å¤„ç†æ‰©å±•åŒ…ï¼Œæ”¯æŒè£å‰ªã€æ°´å°ç­‰å¤„ç†. |
+| [avalanche123/Imagine](https://github.com/avalanche123/Imagine) | | PHP 5.3é¢å‘å¯¹è±¡çš„å›¾åƒå¤„ç†åº“. |
+| [ErikvdVen/php-gif](https://github.com/ErikvdVen/php-gif) | | php GIFå›¾åƒç”Ÿæˆ. |
+| [coldume/imagecraft](https://github.com/coldume/imagecraft) | | ä¸€ä¸ªå¯é çš„å’Œå¯æ‰©å±•çš„PHPå›¾åƒå¤„ç†åº“. |
+| [Seldaek/monolog](https://github.com/Seldaek/monolog) | | Monologæ˜¯phpä¸‹æ¯”è¾ƒå…¨åˆå®¹æ˜“æ‰©å±•çš„è®°å½•æ—¥å¿—ç»„ä»¶. |
+| [dingo/api](https://github.com/Intervention/image) | | æ„å»º API æœåŠ¡å™¨çš„å®Œæ•´è§£å†³æ–¹æ¡ˆ. |
+| [thephpleague/flysystem](http://flysystem.thephpleague.com) | | Flysystem æä¾›äº†å¼ºå¤§çš„æ–‡ä»¶ç³»ç»ŸæŠ½è±¡ç®¡ç†. |
+| [thephpleague/glide](https://github.com/thephpleague/glide) | | åŸºäºFlysystem æŒ‰éœ€å›¾åƒå¤„ç†åº“ HTTP API. |
+| [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) | | ä¸€ä¸ªå°å‹PHPåº“ç”Ÿæˆç±»ä¼¼youtubeä»æ•°å­—id. |
+| [defuse/php-encryption](https://github.com/defuse/php-encryption) | | ç®€å•çš„PHPåŠ å¯†. |
+| [overtrue/wechat](https://github.com/overtrue/wechat) | | EasyWeChat æ˜¯ä¸€ä¸ªå¼€æºçš„ å¾®ä¿¡ éå®˜æ–¹ SDK. |
+| [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) | | å¾®ä¿¡å…¬ä¼—å¹³å°phpå¼€å‘åŒ…, weixin developer SDK.. |
+| [overtrue/pinyin](https://github.com/overtrue/pinyin) | | åŸºäºè¯åº“çš„ä¸­æ–‡è½¬æ‹¼éŸ³ä¼˜è´¨è§£å†³æ–¹æ¡ˆ. |
+| [php-ffmpeg/php-ffmpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) | | php-ffmpeg. |
+| [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | | PHPè®¾è®¡æ¨¡å¼èŒƒä¾‹. |
+| [mrclay/minify](https://github.com/mrclay/minify) | | php js csså‹ç¼©. |
+| [jasny/audio](https://github.com/jasny/audio) | | åˆ›å»ºæ³¢å½¢PNG. |
+| [jasny/audio](https://github.com/jasny/audio) | | åˆ›å»ºæ³¢å½¢PNG. |
+| [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) | | getID3 å…ƒæ•°æ®. |
 
 
 
