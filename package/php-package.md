@@ -20,7 +20,7 @@
 | [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | | PHP设计模式范例. |
 | [mrclay/minify](https://github.com/mrclay/minify) | | php js css压缩. |
 | [jasny/audio](https://github.com/jasny/audio) | | 创建波形PNG. |
-| [jasny/audio](https://github.com/jasny/audio) | | 创建波形PNG. |
+| [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) | | Assetic – 资源管理. |
 | [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) | | getID3 元数据. |
 
 
