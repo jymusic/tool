@@ -14,22 +14,21 @@
 | [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) | | Goutte是一个抓取网站和提取数据库。它提供了一个优雅的API，这使得从远程页面上选择特定元素变得简单。 |
 | [dingo/api](https://github.com/Intervention/image) | | 构建 API 服务器的完整解决方案. |
 | [league/flysystem](http://flysystem.thephpleague.com) | | Flysystem 提供了强大的文件系统抽象管理. |
-| [league/glide](https://github.com/thephpleague/glide) | | 基于Flysystem 按需图像处理库 HTTP API. |
+| [league/glide](https://github.com/thephpleague/glide) | | 基于Intervention/image 和 Flysystem 按需图像处理库 HTTP API. |
 | [league/event](https://github.com/thephpleague/event) | | php 事件处理 |
 | [league/omnipay](https://github.com/thephpleague/omnipay) | | PHP 5.3支付处理库,包括支付宝和微信. |
 | [league/oauth2-client](https://github.com/thephpleague/oauth2-client) | | 简易的oauth2 客户端集成. |
 | [league/oauth2-server](https://github.com/thephpleague/oauth2-server) | | 规范兼容、安全默认PHP OAuth 2.0 |
 | [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) | | 一个小型PHP库生成类似youtube从数字id. |
 | [defuse/php-encryption](https://github.com/defuse/php-encryption) | | 简单的PHP加密. |
-| [overtrue/wechat](https://github.com/overtrue/wechat) | | EasyWeChat 是一个开源的 微信 非官方 SDK. |
 | [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) | | 微信公众平台php开发包, weixin developer SDK.. |
+| [overtrue/wechat](https://github.com/overtrue/wechat) | | EasyWeChat 是一个开源的 微信 非官方 SDK. |
 | [overtrue/pinyin](https://github.com/overtrue/pinyin) | | 基于词库的中文转拼音优质解决方案. |
-| [php-ffmpeg/php-ffmpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) | | php-ffmpeg. |
 | [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | | PHP设计模式范例. |
 | [mrclay/minify](https://github.com/mrclay/minify) | | php js css压缩. |
-| [jasny/audio](https://github.com/jasny/audio) | | 创建波形PNG. |
-| [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) | | Assetic – 资源管理. |
+| [php-ffmpeg/php-ffmpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) | | php-ffmpeg. |
 | [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) | | getID3 元数据. |
+| [jasny/audio](https://github.com/jasny/audio) | | 创建波形PNG. |
 | [nikic/fast-route](https://github.com/nikic/FastRoute) | |这个库提供了一种基于正则表达式的路由器的快速实现. |
 | [klein/klein.php](https://github.com/klein/klein.php) | | 一款针对PHP5.3+版本的轻量级路由库. |
 | [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) | | 一个PHP的资源管理框架，用于合并和减小了CSS/JS资源. |
