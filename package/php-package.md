@@ -2,7 +2,6 @@
 |---|   |
 |---|---|
 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | Fake 是一个为你生成假数据的PHP库，web应用生成测试数据. |
-| [guzzle/guzzle3](https://github.com/guzzle/guzzle) | PHP HTTP 客户端和框架. |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | Monolog是php下比较全又容易扩展的记录日志组件. |
 | [dingo/api](https://github.com/Intervention/image) | 构建 API 服务器的完整解决方案. |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | Carbon 是 DateTime API 的一个简单扩展。 |
@@ -13,20 +12,25 @@
 | [league/oauth2-client](https://github.com/thephpleague/oauth2-client) | 简易的oauth2 客户端集成. |
 | [league/oauth2-server](https://github.com/thephpleague/oauth2-server) | 规范兼容、安全默认PHP OAuth 2.0 |
 | [Respect/Validation](https://github.com/Respect/Validation) | Validation 声称是PHP库里最强大的验证引擎. |
-| [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) | Goutte是一个抓取网站和提取数据库。它提供了一个优雅的API，这使得从远程页面上选择特定元素变得简单。 |
-| [rmccue/Requests](https://github.com/rmccue/Requests) | Requests 一个HTTP请求的库。简化Curl的各种各样的参数. |
-| [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) | Buzz是另一个完成HTTP请求的库. |
 | [danielstjules/Stringy](https://github.com/danielstjules/Stringy) | 一个PHP与多字节字符串处理库的支持 |
 | [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) | 一个小型PHP库生成类似youtube从数字id. |
 | [defuse/php-encryption](https://github.com/defuse/php-encryption) | 简单的PHP加密. |
 | [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | PHP设计模式范例. |
 | [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | 一个轻量级的PHP类检测移动设备(包括平板电脑). |
-| [nikic/fast-route](https://github.com/nikic/FastRoute) | 这个库提供了一种基于正则表达式的路由器的快速实现. |
-| [klein/klein.php](https://github.com/klein/klein.php) | 一款针对PHP5.3+版本的轻量级路由库. |
 | [j4mie/idiorm](https://github.com/j4mie/idiorm) | 它是一款轻量级的ORM库，一个建立在PDO之上的PHP5查询构造器. |
 | [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | Upload是一个简化文件上传和验证的库. |
 | [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) | HTMLPurifier是一个HTML过滤库，通过强大的白名单和聚集分析，保护你代码远离XSS攻击. |
 | [devster/ubench](https://github.com/devster/ubench) | Ubench 是一个用于评测PHP代码的微型库，可监控（代码）执行时间和内存使用率. |
+
+### 请求和响应
+|---|   |
+|---|---|
+| [guzzle/guzzle3](https://github.com/guzzle/guzzle) | PHP HTTP 客户端和框架. |
+| [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) | Goutte是一个抓取网站和提取数据库。它提供了一个优雅的API，这使得从远程页面上选择特定元素变得简单。 |
+| [rmccue/Requests](https://github.com/rmccue/Requests) | Requests 一个HTTP请求的库。简化Curl的各种各样的参数. |
+| [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) | Buzz是另一个完成HTTP请求的库. |
+| [klein/klein.php](https://github.com/klein/klein.php) | 一款针对PHP5.3+版本的轻量级路由库. |
+| [nikic/fast-route](https://github.com/nikic/FastRoute) | 这个库提供了一种基于正则表达式的路由器的快速实现. |
 
 ### 文件管理
 |---|   |
