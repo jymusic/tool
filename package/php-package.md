@@ -30,27 +30,27 @@
 | [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | | Upload是一个简化文件上传和验证的库. |
 | [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) | | HTMLPurifier是一个HTML过滤库，通过强大的白名单和聚集分析，保护你代码远离XSS攻击. |
 | [devster/ubench](https://github.com/devster/ubench) | | Ubench 是一个用于评测PHP代码的微型库，可监控（代码）执行时间和内存使用率. |
-|----| 图像文件处理 |----|
+|---- 图像文件处理 ----|||
 | [intervention/image](https://github.com/Intervention/image) | | 图片处理扩展包，支持裁剪、水印等处理. |
 | [league/glide](https://github.com/thephpleague/glide) | | 基于Intervention/image 和 Flysystem 便捷图像处理库 简易HTTP API. |
 | [ImageWorkshop](https://github.com/Sybio/ImageWorkshop) | | ImageWorkshop操控带层图片,重定义尺寸、裁剪、制作缩略图、打水印或更多. |
 | [avalanche123/Imagine](https://github.com/avalanche123/Imagine) | | PHP 5.3面向对象的图像处理库. |
 | [ErikvdVen/php-gif](https://github.com/ErikvdVen/php-gif) | | php GIF图像生成，一般用于邮件发送. |
 | [coldume/imagecraft](https://github.com/coldume/imagecraft) | | 一个可靠的和可扩展的PHP图像处理库 支持gif加水印. |
-|----| 音视频文件处理 |----|
+|----| 音视频文件处理 ||----|
 | [php-ffmpeg/php-ffmpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) | | php-ffmpeg. |
 | [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) | | getID3 元数据. |
 | [jasny/audio](https://github.com/jasny/audio) | | 创建波形PNG. |
-|----| 静态资源管理 |----|
+|----| 静态资源管理 ----|||
 | [mrclay/minify](https://github.com/mrclay/minify) | | JS和CSS的HTTP服务器管理。压缩合并文件允许有条件获取或long-Expires. |
 | [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) | | 一个PHP的资源管理框架，用于合并和减小了CSS/JS资源. |
 | [Munee/Munee ](https://github.com/meenie/munee) | | 一个PHP的资源管理器. |
-|----|国内 PHP package |----|
+|----国内 PHP package ----|||
 | [dodgepudding/wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) | | 微信公众平台php开发包, weixin developer SDK.. |
 | [overtrue/wechat](https://github.com/overtrue/wechat) | | EasyWeChat 是一个开源的 微信 非官方 SDK. |
 | [overtrue/pinyin](https://github.com/overtrue/pinyin) | | 基于词库的中文转拼音优质解决方案. |
 | [kalcaddle/KODExplorer](https://github.com/kalcaddle/KODExplorer) | | KodExplorer是一款开源的基于Web的在线文件管理、代码编辑器 |
-|----| php模板引擎 |----|
+|----| php模板引擎 ----|||
 | [twigphp/Twig](https://github.com/twigphp/Twig) | | Twig是一个灵活，快速，安全的PHP模板语言 它将模板编译成经过优化的原始PHP代码 |
 |----|完整应用|----|
 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | | PrestaShop提供一个免费的、完全可伸缩的开源电子商务解决方案。|
