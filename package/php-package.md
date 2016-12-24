@@ -3,7 +3,7 @@
 |---|---|
 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | Fake 是一个为你生成假数据的PHP库，web应用生成测试数据. |
 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | Monolog是php下比较全又容易扩展的记录日志组件. |
-| [dingo/api](https://github.com/Intervention/image) | 构建 API 服务器的完整解决方案. |
+| [dingo/api](https://github.com/dingo/api) | 构建 API 服务器的完整解决方案. |
 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | Carbon 是 DateTime API 的一个简单扩展。 |
 | [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) | PHPExcel类是php一个excel表格处理插件。 |
 | [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) | PHPExcel类是php一个Word文档处理插件。 |
