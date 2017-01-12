@@ -10,12 +10,14 @@
 | [league/oauth2-server](https://github.com/thephpleague/oauth2-server) | 规范兼容、安全默认PHP OAuth 2.0 |
 | [Respect/Validation](https://github.com/Respect/Validation) | Validation 声称是PHP库里最强大的验证引擎. |
 | [danielstjules/Stringy](https://github.com/danielstjules/Stringy) | 一个PHP与多字节字符串处理库的支持 |
-| [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | PHP设计模式范例. |
 | [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | 一个轻量级的PHP类检测移动设备(包括平板电脑). |
 | [j4mie/idiorm](https://github.com/j4mie/idiorm) | 它是一款轻量级的ORM库，一个建立在PDO之上的PHP5查询构造器. |
 | [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | Upload是一个简化文件上传和验证的库. |
 | [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) | HTMLPurifier是一个HTML过滤库，通过强大的白名单和聚集分析，保护你代码远离XSS攻击. |
 | [devster/ubench](https://github.com/devster/ubench) | Ubench 是一个用于评测PHP代码的微型库，可监控（代码）执行时间和内存使用率. |
+| [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) | PHP服务器监控是一个脚本,检查您的网站和服务器是否正在运行。
+| [VisualAppeal/PHP-Auto-Update](https://github.com/VisualAppeal/PHP-Auto-Update) | PHP自动升级类。让用户自动升级安装 |
+
 
 ### 系统生成
 |---|   |
@@ -23,7 +25,7 @@
 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | Fake 是一个为你生成假数据的PHP库，web应用生成测试数据. |
 | [ramsey/uuid](https://github.com/ramsey/uuid) | PHP 5.4库 RFC 4122版本1,3,4,5 生成全局唯一标识符(UUID)。|
 | [defuse/php-encryption](https://github.com/defuse/php-encryption) | 简单的PHP加密. |
-| [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) | 一个小型PHP库生成类似youtube从数字id. |
+| [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) |一个小型PHP库生成类似youtube数字id生成，用于隐藏数据id |
 
 ### 文档处理
 |---|   |
@@ -50,7 +52,13 @@
 |---|   |
 |---|---|
 | [league/flysystem](http://flysystem.thephpleague.com) | Flysystem 提供了强大的文件系统抽象管理. |
+| [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) | Gaufrette是一个PHP5库，提供了一个文件系统的抽象层 |
 | [backup-manager](https://github.com/backup-manager/backup-manager) | 数据库备份管理器. |
+| [apfelbox/PHP-File-Download](https://github.com/apfelbox/PHP-File-Download) | 一个PHP类来帮助创建下载文件。. |
+| [jkuchar/FileDownloader](https://github.com/backup-manager/backup-manager) | 一个php文件下载类，支持事件回调 |
+| [ahmad-sa3d/php-advanced-downloader](https://github.com/ahmad-sa3d/php-advanced-downloader) | php文件下载器，更多的控制下载文件 |
+| [ArturGrigio/php-Zip-Download-of-Large-Files-using-Buffer](https://github.com/ArturGrigio/php-Zip-Download-of-Large-Files-using-Buffer) | 使用缓冲区下载Zip大文件 |
+
 
 ### PHP 事件处理
 |---|   |
@@ -75,14 +83,31 @@
 |---|---|
 | [php-ffmpeg/php-ffmpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) | php-ffmpeg. |
 | [JamesHeinrich/getID3](https://github.com/JamesHeinrich/getID3) | getID3 元数据. |
+| [buggedcom/phpvideotoolkit-v2](https://github.com/buggedcom/phpvideotoolkit-v2) | 提供一个模块化、面向对象的交互通过FFmpeg访问视频和音频接口. |
+| [alchemy-fr/Media-Alchemyst](https://github.com/alchemy-fr/Media-Alchemyst) | 基于ffmpeg一个PHP 5.3自由转换媒体文件。 |
+| [nass600/getID3](https://github.com/nass600/getID3) | PHP库用于处理音频/视频文件的元数据,如mp3,avi,flac…… |
+| [captbaritone/transcode-to-mp3-streamo](https://github.com/captbaritone/transcode-to-mp3-stream) | Php库流各种mp3音频文件的转换. |
 | [jasny/audio](https://github.com/jasny/audio) | 创建波形PNG. |
+| [afreiday/php-waveform-png](https://github.com/afreiday/php-waveform-png) | mp3创建波形PNG. |
+| [afreiday/php-waveform-svg](https://github.com/afreiday/php-waveform-svg) | mp3创建波形svg. |
+| [alexkirs/php-waveform-json](https://github.com/alexkirs/php-waveform-json) | PHP MP3 波形JSON生成器. |
+| [beotiger/justwave](https://github.com/beotiger/justwave) | 在Web应用程序中创建png波形音频(mp3  ogg  等). |
+| [jasny/audio](https://github.com/jasny/audio) | 创建波形PNG. |
+| [nkolosov/wav](https://github.com/nkolosov/wav) | PHP库生成音频文件. |
+| [boyhagemann/Waveform](https://github.com/boyhagemann/Waveform) | 创建波形 可以生成html，png， svg. |
+| [polem/WaveformGenerator](https://github.com/polem/WaveformGenerator | 四年前的一个创建波形PNG包. |
+| [sijeko/waveform](https://github.com/sijeko/waveform) | 波形转换为png. |
+| [boyhagemann/Wave](https://github.com/boyhagemann/Wave) | 一个php包读取WAV文件数据. |
+| [maximal/audio-waveform-php](https://github.com/maximal/audio-waveform-php) | 音频波形生成器. |
+
 
 ### 静态资源管理
 |---|   |
 |---|---|
 | [kriswallsmith/assetic](https://github.com/kriswallsmith/assetic) | 一个PHP的资源管理框架，用于合并和减小了CSS/JS资源. |
 | [mrclay/minify](https://github.com/mrclay/minify) | JS和CSS的HTTP服务器管理。压缩合并文件允许有条件获取或long-Expires. |
-| [Munee/Munee ](https://github.com/meenie/munee) | 一个PHP的资源管理器. |
+| [meenie/munee](https://github.com/meenie/munee) | Munee是一个集图片尺寸调整、CSS-JS合并/压缩、缓存等功能于一身的PHP库. |
+| [bennettstone/magic-min](https://github.com/bennettstone/magic-min) | CSS-JS合并/压缩|
 
 ### 国内 PHP package
 |---|   |
@@ -91,11 +116,17 @@
 | [overtrue/wechat](https://github.com/overtrue/wechat) | EasyWeChat 是一个开源的 微信 非官方 SDK. |
 | [overtrue/pinyin](https://github.com/overtrue/pinyin) | 基于词库的中文转拼音优质解决方案. |
 | [kalcaddle/KODExplorer](https://github.com/kalcaddle/KODExplorer) | KodExplorer是一款开源的基于Web的在线文件管理、代码编辑器 |
+| [helei112g/payment](https://github.com/helei112g/payment) | php集成支付宝（即时到帐、手机网站、移动支付、订单查询、退款、转款）. |
+| [zqqian/baidulixiandown](https://github.com/zqqian/baidulixiandown) | 百度网盘高速下载. |
 
 ### 实例参考 
 |---|   |
 |---|---|
-| [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | 几个PHP设计模式参考示例代码 |
+| [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | PHP设计模式参考示例代码 |
+
+### 兼容处理
+| [sarciszewski/php-future](https://github.com/sarciszewski/php-future) | php 5.3-5.6 的函数兼容处理|
+| [exifer/exifer](https://github.com/exifer/exifer) | 可以再php5.3 种使用EXIF|
 
 ### php模板引擎
 |---|   |
