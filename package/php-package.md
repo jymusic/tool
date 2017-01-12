@@ -54,6 +54,7 @@
 | [league/flysystem](http://flysystem.thephpleague.com) | Flysystem 提供了强大的文件系统抽象管理. |
 | [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) | Gaufrette是一个PHP5库，提供了一个文件系统的抽象层 |
 | [backup-manager](https://github.com/backup-manager/backup-manager) | 数据库备份管理器. |
+| [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | 文件上传与验证和存储策略. |
 | [apfelbox/PHP-File-Download](https://github.com/apfelbox/PHP-File-Download) | 一个PHP类来帮助创建下载文件。. |
 | [jkuchar/FileDownloader](https://github.com/backup-manager/backup-manager) | 一个php文件下载类，支持事件回调 |
 | [ahmad-sa3d/php-advanced-downloader](https://github.com/ahmad-sa3d/php-advanced-downloader) | php文件下载器，更多的控制下载文件 |
@@ -108,6 +109,13 @@
 | [mrclay/minify](https://github.com/mrclay/minify) | JS和CSS的HTTP服务器管理。压缩合并文件允许有条件获取或long-Expires. |
 | [meenie/munee](https://github.com/meenie/munee) | Munee是一个集图片尺寸调整、CSS-JS合并/压缩、缓存等功能于一身的PHP库. |
 | [bennettstone/magic-min](https://github.com/bennettstone/magic-min) | CSS-JS合并/压缩|
+
+
+### 工具集 
+|---|   |
+|---|---|
+| [thephpleague](https://github.com/thephpleague) | php联盟一群联合起来建立坚实的开发人员,测试PHP包使用现代的编码标准。|
+| [Nette Foundation](https://github.com/nette) | Nette 基金会开源工具合集|
 
 ### 国内 PHP package
 |---|   |
