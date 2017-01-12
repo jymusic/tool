@@ -95,7 +95,7 @@
 | [jasny/audio](https://github.com/jasny/audio) | 创建波形PNG. |
 | [nkolosov/wav](https://github.com/nkolosov/wav) | PHP库生成音频文件. |
 | [boyhagemann/Waveform](https://github.com/boyhagemann/Waveform) | 创建波形 可以生成html，png， svg. |
-| [polem/WaveformGenerator](https://github.com/polem/WaveformGenerator | 四年前的一个创建波形PNG包. |
+| [polem/WaveformGenerator](https://github.com/polem/WaveformGenerator) | 四年前的一个创建波形PNG包. |
 | [sijeko/waveform](https://github.com/sijeko/waveform) | 波形转换为png. |
 | [boyhagemann/Wave](https://github.com/boyhagemann/Wave) | 一个php包读取WAV文件数据. |
 | [maximal/audio-waveform-php](https://github.com/maximal/audio-waveform-php) | 音频波形生成器. |
