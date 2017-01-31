@@ -12,17 +12,20 @@
 | [danielstjules/Stringy](https://github.com/danielstjules/Stringy) | 一个PHP与多字节字符串处理库的支持 |
 | [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | 一个轻量级的PHP类检测移动设备(包括平板电脑). |
 | [j4mie/idiorm](https://github.com/j4mie/idiorm) | 它是一款轻量级的ORM库，一个建立在PDO之上的PHP5查询构造器. |
-| [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | Upload是一个简化文件上传和验证的库. |
+| [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) | 轻松地构建社交应用程序和工具进行网站用户，社会登录、社会共享、用户资料、好友列表、活动流、状态更新支持QQ，微博，等等。 |
 | [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) | HTMLPurifier是一个HTML过滤库，通过强大的白名单和聚集分析，保护你代码远离XSS攻击. |
 | [devster/ubench](https://github.com/devster/ubench) | Ubench 是一个用于评测PHP代码的微型库，可监控（代码）执行时间和内存使用率. |
 | [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) | PHP服务器监控是一个脚本,检查您的网站和服务器是否正在运行。
 | [VisualAppeal/PHP-Auto-Update](https://github.com/VisualAppeal/PHP-Auto-Update) | PHP自动升级类。让用户自动升级安装 |
+| [JBZoo/Utils](https://github.com/JBZoo/Utils) | 有用的PHP函数的集合,迷你类和片段,您需要,每天可以使用。 |
+
 
 
 ### 系统生成
 |---|   |
 |---|---|
 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | Fake 是一个为你生成假数据的PHP库，web应用生成测试数据. |
+| [nelmio/alice](https://github.com/nelmio/alice) | 又一个web应用生成测试数据包。|
 | [ramsey/uuid](https://github.com/ramsey/uuid) | PHP 5.4库 RFC 4122版本1,3,4,5 生成全局唯一标识符(UUID)。|
 | [defuse/php-encryption](https://github.com/defuse/php-encryption) | 简单的PHP加密. |
 | [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) |一个小型PHP库生成类似youtube数字id生成，用于隐藏数据id |
@@ -48,6 +51,13 @@
 | [klein/klein.php](https://github.com/klein/klein.php) | 一款针对PHP5.3+版本的轻量级路由库. |
 | [nikic/fast-route](https://github.com/nikic/FastRoute) | 这个库提供了一种基于正则表达式的路由器的快速实现. |
 
+### 解密解密与验证
+|---|   |
+|---|---|
+| [PHPAuth/PHPAuth](https://github.com/PHPAuth/PHPAuth) | PHPAuth PHP是一个安全的用户身份验证类网站,使用一个强大的密码散列系统攻击阻塞和保持你的网站和用户安全。|
+| [spatie/url-signer](https://github.com/spatie/url-signer) | 创建url签名验证有时间限制。|
+
+
 ### 文件管理
 |---|   |
 |---|---|
@@ -56,6 +66,7 @@
 | [backup-manager](https://github.com/backup-manager/backup-manager) | 数据库备份管理器. |
 | [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | 文件上传与验证和存储策略. |
 | [apfelbox/PHP-File-Download](https://github.com/apfelbox/PHP-File-Download) | 一个PHP类来帮助创建下载文件。. |
+| [brandonsavage/Upload](https://github.com/brandonsavage/Upload) | Upload是一个简化文件上传和验证的库. |
 | [jkuchar/FileDownloader](https://github.com/backup-manager/backup-manager) | 一个php文件下载类，支持事件回调 |
 | [ahmad-sa3d/php-advanced-downloader](https://github.com/ahmad-sa3d/php-advanced-downloader) | php文件下载器，更多的控制下载文件 |
 | [ArturGrigio/php-Zip-Download-of-Large-Files-using-Buffer](https://github.com/ArturGrigio/php-Zip-Download-of-Large-Files-using-Buffer) | 使用缓冲区下载Zip大文件 |
@@ -100,6 +111,7 @@
 | [sijeko/waveform](https://github.com/sijeko/waveform) | 波形转换为png. |
 | [boyhagemann/Wave](https://github.com/boyhagemann/Wave) | 一个php包读取WAV文件数据. |
 | [maximal/audio-waveform-php](https://github.com/maximal/audio-waveform-php) | 音频波形生成器. |
+| [relbraun/mp4info](https://github.com/relbraun/mp4info) | 获取MP4文件信息. |
 
 
 ### 静态资源管理
@@ -110,6 +122,11 @@
 | [meenie/munee](https://github.com/meenie/munee) | Munee是一个集图片尺寸调整、CSS-JS合并/压缩、缓存等功能于一身的PHP库. |
 | [bennettstone/magic-min](https://github.com/bennettstone/magic-min) | CSS-JS合并/压缩|
 
+### 服务器
+|---|   |
+|---|---|
+| [renatorib/otinfo](https://github.com/renatorib/otinfo) | 简单的检测远程服务器。|
+| [zetacomponents/system-information](https://github.com/zetacomponents/SystemInformation) | 获取常见的服务器系统变量|
 
 ### 工具集 
 |---|   |
@@ -124,8 +141,16 @@
 | [overtrue/wechat](https://github.com/overtrue/wechat) | EasyWeChat 是一个开源的 微信 非官方 SDK. |
 | [overtrue/pinyin](https://github.com/overtrue/pinyin) | 基于词库的中文转拼音优质解决方案. |
 | [kalcaddle/KODExplorer](https://github.com/kalcaddle/KODExplorer) | KodExplorer是一款开源的基于Web的在线文件管理、代码编辑器 |
-| [helei112g/payment](https://github.com/helei112g/payment) | php集成支付宝（即时到帐、手机网站、移动支付、订单查询、退款、转款）. |
+| [helei112g/payment](https://github.com/helei112g/payment) | php集成支付宝（即时到帐、手机网站、移动支付、订单查询、退款、转款）. 
+| [phoenixg/omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp) |  一个基于Omnipay支持支付宝（APP、Wap、PC、即时到账、扫码、企业付款），微信（APP、公众号、红包）， 银联网关、银联企业网银、Apple Pay、QQ 钱包、易宝支付、百度钱包、京东支付、京东白条、招行一网通、分期支付等国内主流支付渠道的聚合支付网关. ||
+| [mytharcher/alipay-php-sdk](https://github.com/mytharcher/alipay-php-sdk) | 支付宝即时到账 SDK 简化版（含移动网页支付） |
+| [toplan/phpsms](https://github.com/toplan/phpsms) | 可能是目前最聪明、优雅的php短信发送库了 |
 | [zqqian/baidulixiandown](https://github.com/zqqian/baidulixiandown) | 百度网盘高速下载. |
+| [NijiharaTsubasa/BaiduPanAutoReshare](https://github.com/NijiharaTsubasa/BaiduPanAutoReshare) | 百度网盘自动补档程序. |
+| [metowolf/NeteaseCloudMusicApi](https://github.com/metowolf/NeteaseCloudMusicApi) | 网易云音乐 API，PHP 版. |
+| [metowolf/XiamiMusicAPI](https://github.com/metowolf/XiamiMusicAPI) | 虾米音乐 API，PHP 版. |
+| [metowolf/TencentMusicApi](https://github.com/metowolf/TencentMusicApi) | QQ 音乐 API - PHP 版 |
+| [xlogion/music_163](https://github.com/xlogion/music_163) | 是一个网易音乐的API接口。可以方便的提供搜索、MP3、歌词、播放列表、歌手专辑、专辑详情、提取MV。 |
 
 ### 实例参考 
 |---|   |
@@ -146,3 +171,6 @@
 |---|---|
 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | PrestaShop提供一个免费的、完全可伸缩的开源电子商务解决方案 |
 | [flarum/flarum](https://github.com/flarum/flarum) | Flarum是免费的,开源软件构建PHP和Mithril.js论坛 |
+| [CachetHQ/Cachet](https://github.com/cachethq/Cachet) | 一个开源的系统状态页 |
+
+
