@@ -3,10 +3,8 @@
 
 手机很棒的PHP库列表、资源和特别的东西。
 
-## Contributing
-请看 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) for details.
 
-## Table of Contents
+## 目录
 - [Awesome PHP](#awesome-php)
     - [依赖管理](#dependency-management)
     - [依赖管理 附加](#dependency-management-extras)
@@ -144,7 +142,7 @@
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony components.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
-## Micro Framework Extras
+## 微框架扩展
 *Extras related to micro frameworks and routers.*
 
 * [Silex Skeleton](https://github.com/silexphp/Silex-Skeleton) - A project skeleton for Silex.
@@ -153,14 +151,14 @@
 * [Slim View](https://github.com/slimphp/Slim-Views) - A collection of custom views for Slim.
 
 ## 路由
-*Libraries for handling application routing.*
+*处理应用程序路由.*
 
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
-## Templating
+## 模板引擎
 *Libraries and tools for templating and lexing.*
 
 * [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
@@ -174,7 +172,7 @@
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
-## Static Site Generators
+## 静态生成器
 *Tools for pre-processing content to generate web pages.*
 
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
@@ -183,7 +181,7 @@
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
 ## HTTP
-*Libraries for working with HTTP.*
+*处理HTTP.*
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
@@ -200,7 +198,7 @@
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
-## Middlewares
+## 中间件
 *Libraries for building application using middlewares.*
 
 * [Expressive](https://zendframework.github.io/zend-expressive/) - PSR-7 Middleware framework from Zend.
@@ -229,7 +227,7 @@
 * [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](https://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 
-## Files
+## 文件
 *Libraries for file manipulation and MIME type detection.*
 
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
@@ -243,12 +241,12 @@
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
-## Streams
+## 数据流
 *Libraries for working with streams.*
 
 * [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
-## Dependency Injection
+## 依赖注入
 *Libraries that implement the dependency injection design pattern.*
 
 * [Acclimate](https://github.com/jeremeamia/acclimate-container) - A common interface to dependency injection containers and service locators.
@@ -258,7 +256,7 @@
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF).
 
-## Imagery
+## 图像
 *Libraries for manipulating images.*
 
 * [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
@@ -272,7 +270,7 @@
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
-## Testing
+## 测试
 *Libraries for testing codebases and generating test data.*
 
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
@@ -313,7 +311,7 @@
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Wercker](http://www.wercker.com/) - A continuous integration platform
 
-## Documentation
+## 文档
 *Libraries for generating project documentation.*
 
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
@@ -322,7 +320,7 @@
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
 
-## Security
+## 安全
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
@@ -341,7 +339,7 @@
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 
-## Passwords
+## 密码
 *Libraries and tools for working with and storing passwords.*
 
 * [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
@@ -353,7 +351,7 @@
 * [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
-## Code Analysis
+## 代码分析
 *Libraries and tools for analysing, parsing and manipulating codebases.*
 
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
@@ -402,7 +400,7 @@
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
-## Debugging and Profiling
+## 调试和性能分析
 *Libraries and tools for debugging and profiling code.*
 
 * [APM](http://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
@@ -419,7 +417,7 @@
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
 
-## Build Tools
+## 编译工具
 *Project build and automation tools.*
 
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
@@ -428,7 +426,7 @@
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
-## Task Runners
+## 任务运行
 *Libraries for automating and running tasks.*
 
 * [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
@@ -436,13 +434,13 @@
 * [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 * [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 
-## Navigation
+## 导航
 *Tools for building navigation structures.*
 
 * [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 
-## Asset Management
+## 资产管理
 *Tools for managing, compressing and minifying website assets.*
 
 * [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
@@ -452,7 +450,7 @@
 * [Puli](https://github.com/puli/repository) - A library for determining assets absolute paths.
 * [BowerPHP](https://github.com/Bee-Lab/bowerphp) - A PHP implementation of Bower. A package manager for the web
 
-## Geolocation
+## 地理位置 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
@@ -460,7 +458,7 @@
 * [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
-## Date and Time
+## 日期和时间
 *Libraries for working with dates and times.*
 
 * [CalendR](http://yohan.giarel.li/CalendR/) - A calendar management library.
@@ -469,7 +467,7 @@
 * [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
-## Event
+## 事件
 *Libraries that are event-driven or implement non-blocking event loops.*
 
 * [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
@@ -487,14 +485,14 @@
 * [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
-## Logging
+## 日志
 *Libraries for generating and working with log files.*
 
 * [Analog](https://github.com/jbroadway/analog) - A closure-based micro logging package.
 * [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
-## E-commerce
+## 电子商务
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
@@ -512,7 +510,7 @@
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
 
-## Office
+## 办公
 *Libraries for working with office suite documents.*
 
 * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
@@ -520,7 +518,7 @@
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel)
 
-## Database
+## 数据库
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
@@ -535,7 +533,7 @@
 * [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
 
-## Migrations
+## 数据迁移
 Libraries to help manage database schemas and migrations.
 
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
@@ -552,7 +550,7 @@ Libraries to help manage database schemas and migrations.
 * [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 
-## Queue
+## 队列
 *Libraries for working with event and task queues.*
 
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
@@ -562,7 +560,7 @@ Libraries to help manage database schemas and migrations.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 
-## Search
+## 搜索
 *Libraries and software for indexing and performing search queries on data.*
 
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
@@ -571,7 +569,7 @@ Libraries to help manage database schemas and migrations.
 * [Sphinx Search](https://github.com/ripaclub/sphinxsearch) - Sphinx Search library provides SphinxQL indexing and searching features
 * [SphinxQL query builder](http://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](http://sphinxsearch.com/) search engine.
 
-## Command Line
+## 命令行
 *Libraries related to the command line.*
 
 * [Boris](https://github.com/borisrepl/boris) - A tiny PHP REPL.
@@ -590,7 +588,7 @@ Libraries to help manage database schemas and migrations.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 * [Shunt](https://github.com/thephpleague/shunt) - A library for running commands in parallel on multiple remote machines.
 
-## Authentication and Authorization
+## 权限控制与授权
 *Libraries for implementing user authentication and authorization.*
 
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
@@ -608,7 +606,7 @@ Libraries to help manage database schemas and migrations.
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
 * [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 
-## Markup
+## 标记
 *Libraries for working with markup.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
@@ -621,7 +619,7 @@ Libraries to help manage database schemas and migrations.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 
-## Strings
+## 字符串
 *Libraries for parsing and manipulating strings.*
 
 * [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
@@ -640,7 +638,7 @@ Libraries to help manage database schemas and migrations.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
-## Numbers
+## 数字
 *Libraries for working with numbers.*
 
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
@@ -650,7 +648,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 
-## Filtering and Validation
+## 过滤和验证
 *Libraries for filtering and validating data.*
 
 * [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
@@ -675,7 +673,7 @@ Libraries to help manage database schemas and migrations.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
-## Caching
+## 缓存
 *Libraries for caching data.*
 
 * [Alternative PHP Cache (APC)](http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
@@ -687,7 +685,7 @@ Libraries to help manage database schemas and migrations.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
 * [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
 
-## Data Structure and Storage
+## 数据结构和存储
 *Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
@@ -705,7 +703,7 @@ Libraries to help manage database schemas and migrations.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
 
-## Notifications
+## 通知
 *Libraries for working with notification software.*
 
 * [JoliNotif](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
@@ -715,7 +713,7 @@ Libraries to help manage database schemas and migrations.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
 * [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
 
-## Deployment
+## 部署 
 *Libraries for project deployment.*
 
 * [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
@@ -730,7 +728,7 @@ Libraries to help manage database schemas and migrations.
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
 
-## Third Party APIs
+## 第三方API
 *Libraries for accessing third party APIs.*
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
@@ -746,13 +744,13 @@ Libraries to help manage database schemas and migrations.
 * [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 
-## Extensions
+## 扩展
 *Libraries to help build PHP extensions.*
 
 * [PHP CPP](http://www.php-cpp.com/) - A C++ library for developing PHP extensions.
 * [Zephir](https://github.com/phalcon/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
 
-## Miscellaneous
+## 其他 
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
@@ -795,10 +793,10 @@ Libraries to help manage database schemas and migrations.
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
-# Software
+# 软件 
 *Software for creating a development environment.*
 
-## PHP Installation
+## PHP安装 
 *Tools to help install and manage PHP on your computer.*
 
 * [HomeBrew PHP](https://github.com/Homebrew/homebrew-php) - A PHP tap for HomeBrew.
@@ -810,7 +808,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
 
-## Development Environment
+## 开发环境
 *Software and tools for creating a sandboxed development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
@@ -821,21 +819,21 @@ Libraries to help manage database schemas and migrations.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 * [Docker](https://www.docker.com/) - A containerization platform.
 
-## Virtual Machines
+## 虚拟机
 *Alternative PHP virtual machines.*
 
 * [Hack](http://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM](https://github.com/hippyvm/hippyvm) - Another PHP virtual machine.
 
-## Integrated Development Environment
+## 集成开发工具
 *Integrated Development Environments with support for PHP.*
 
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 
-## Web Applications
+## 应用程序
 *Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
@@ -850,16 +848,16 @@ Libraries to help manage database schemas and migrations.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 
-## Infrastructure
+## 基础设施
 *Infrastructure for providing PHP applications and services.*
 
 * [appserver.io](http://appserver.io/) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
-
+资源
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
-## PHP Websites
+## PHP的网站
 *Useful PHP-related websites.*
 
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
@@ -876,7 +874,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 
-## Other Websites
+## 其他网站 
 *Useful websites related to web development.*
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/) - A series of Git tutorials.
@@ -886,7 +884,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](https://websec.io/) - A web security community resource.
 
-## PHP Books
+## PHP 书籍
 *Fantastic PHP-related books.*
 
 * [Functional Programming in PHP](http://www.functionalphp.com) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
@@ -903,7 +901,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 
-## Other Books
+## 其他书籍
 *Books related to general computing and web development.*
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
@@ -915,7 +913,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 
-## PHP Videos
+## PHP 视频
 *Fantastic PHP-related videos.*
 
 * [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
@@ -930,7 +928,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
-## PHP Reading
+## PHP 阅读 
 *PHP-releated reading materials.*
 
 * [Composer Primer](https://daylerees.com/composer-primer/) - A Composer primer.
