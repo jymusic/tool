@@ -81,7 +81,7 @@
 - [贡献](#contributing)
 
 ## 依赖管理
-*库的依赖和包管理.*
+*依赖和包管理库.*
 
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 * [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
@@ -163,43 +163,43 @@
 
 * [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
-* [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
-* [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-* [Phly Mustache](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
-* [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
-* [Plates](http://platesphp.com/) - A native PHP templating library.
+* [MtHaml](https://github.com/arnaud-lb/MtHaml) - 一个HAML 模板语言的PHP实现
+* [Mustache](https://github.com/bobthecow/mustache.php) - 一个Mustache模板语言的PHP实现
+* [Phly Mustache](https://github.com/phly/phly_mustache) - 另一个Mustache模板语言的PHP实现
+* [PHPTAL](http://phptal.org/) - 一个 TAL 模板语言的PHP实现 [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
+* [Plates](http://platesphp.com/) 一个原生PHP模板库
 * [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
-* [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
+* [Twig](http://twig.sensiolabs.org/) - 个全面的模板语言.
 * [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
-## 静态生成器
-*Tools for pre-processing content to generate web pages.*
+## 静态站点生成器
+*预处理工具来生成Web页面的内容。*
 
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
-* [Phrozn](https://github.com/Pawka/phrozn) - Another tool that converts Textile, Markdown and Twig into HTML.
-* [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-* [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
+* [Phrozn](https://github.com/Pawka/phrozn) - 另一个转换Textile，Markdown和Twig为HTML的工具
+* [Sculpin](https://sculpin.io) - 转换Markdown和Twig为静态HTML的工具
+* [Spress](http://spress.yosymfony.com) - 一个可扩展的工具,转换 Markdown 和 Twig 成HTML.
 
 ## HTTP
 *处理HTTP.*
 
-* [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
-* [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
-* [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
-* [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-* [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
+* [Buzz](https://github.com/kriswallsmith/Buzz) - 一个HTTP客户端.
+* [Guzzle]( https://github.com/guzzle/guzzle) - 一个全面的HTTP客户端.
+* [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP库.
+* [PHP VCR](http://php-vcr.github.io/) - 录制和重放HTTP请求的库
+* [Requests](https://github.com/rmccue/Requests) - 一个简单的HTTP库
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
-* [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP Message implementation.
+* [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP消息实现.
 
-## Scraping
+## web抓取
 *Libraries for scraping websites.*
 
-* [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
-* [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
-* [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [Embed](https://github.com/oscarotero/Embed) - 一个信息提取器从任何web服务或页面。
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的web爬取器
+* [PHP Spider](https://github.com/mvdbos/php-spider) - 一个可配置的和可扩展的PHP web蜘蛛.
 
 ## 中间件
-*Libraries for building application using middlewares.*
+*使用中间件来构建应用程序的库*
 
 * [Expressive](https://zendframework.github.io/zend-expressive/) - PSR-7 Middleware framework from Zend.
 * [PSR7-Middlewares](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
@@ -208,43 +208,43 @@
 * [zend-stratigility](https://github.com/zendframework/zend-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ## URL
-*Libraries for parsing URLs.*
+*解析URL的库*
 
-* [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-* [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-* [sabre/uri](https://github.com/fruux/sabre-uri) - A functional URI manipulation library.
-* [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
+* [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 一个本地前缀解析库.
+* [Purl](https://github.com/jwage/purl) - 一个URL处理库。
+* [sabre/uri](https://github.com/fruux/sabre-uri) - 一个操纵URI功能库。
+* [Uri](https://github.com/thephpleague/uri) - 另一个URL处理库。
 
 ## Email
-*Libraries for sending and parsing email.*
+*发送和解析电子邮件。*
 
-* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
-* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-* [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
-* [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
+* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) -CSS邮件模板库
+* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 一个邮件回复解析库
+* [Email Validator](https://github.com/nojacko/email-validator) - 一个小的电子邮件地址验证库。
+* [Fetch](https://github.com/tedious/Fetch) - 一个IMAP库 
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
-* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](https://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
-* [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件解决方案
+* [Stampie](https://github.com/henrikbjorn/Stampie) - 邮件服务库 [SendGrid](http://sendgrid.com), [PostMark](https://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
+* [SwiftMailer](http://swiftmailer.org/) - 一个邮件解决方案
 
 ## 文件
-*Libraries for file manipulation and MIME type detection.*
+*文件处理和MIME类型检测库*
 
-* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
-* [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
-* [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-* [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
-* [Flysystem](https://github.com/thephpleague/Flysystem) - Another filesystem abstraction layer.
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
-* [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
-* [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
+* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - 一个解析Apache MIME类型的库
+* [Canal](https://github.com/dflydev/dflydev-canal) - 一个检测互联网媒体类型的库
+* [CSV](https://github.com/thephpleague/csv) - 一个CSV数据处理库
+* [Ferret](https://github.com/versionable/Ferret) - 一个MIME检测库
+* [Flysystem](https://github.com/thephpleague/Flysystem) - 另一个文件系统抽象层
+* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件系统抽象层
+* [Hoa Mime](https://github.com/hoaproject/Mime) - 另一个MIME检测库
+* [Lurker](https://github.com/henrikbjorn/Lurker) - 一个资源跟踪库
+* [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - 一个基于 [FFmpeg](http://www.ffmpeg.org/) 视频处理库.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ## 数据流
-*Libraries for working with streams.*
+*处理流的库*
 
-* [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+* [Streamer](https://github.com/fzaninotto/Streamer) -一个面向对象的流包装库
 
 ## 依赖注入
 *Libraries that implement the dependency injection design pattern.*
@@ -297,8 +297,8 @@
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
 
-## Continuous Integration
-*Libraries and applications for continuous integration.*
+## 持续集成
+*持续集成的库和应用*
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
@@ -312,7 +312,7 @@
 * [Wercker](http://www.wercker.com/) - A continuous integration platform
 
 ## 文档
-*Libraries for generating project documentation.*
+*生成项目文档的库*
 
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io](https://github.com/justinwalsh/daux.io) - A documentation generator which uses Markdown files.
@@ -522,10 +522,10 @@
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
+* [Cake ORM](https://github.com/cakephp/orm) - 对象关系映射器,使用DataMapper模式实现的 (CP).
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
+* [Eloquent](https://github.com/illuminate/database) - 一个检点 ORM 模型 (L5).
 * [LazyRecord](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
