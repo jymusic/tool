@@ -314,11 +314,11 @@
 ## 文档
 *生成项目文档的库*
 
-* [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+* [APIGen](https://github.com/apigen/apigen) - 一个API文档生成器.
 * [daux.io](https://github.com/justinwalsh/daux.io) - A documentation generator which uses Markdown files.
-* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
-* [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
-* [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
+* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - 一个API文档生成器documentation generator.
+* [phpDox](http://phpdox.de/) - PHP项目文档生成器 (这不是仅限于API文档).
+* [Sami](https://github.com/FriendsOfPHP/Sami) - 一个API文档生成器
 
 ## 安全
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -753,7 +753,7 @@ Libraries to help manage database schemas and migrations.
 ## 其他 
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
+* [Annotations](https://github.com/doctrine/annotations) - 一个注释库（Doctrine部分
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
@@ -763,17 +763,17 @@ Libraries to help manage database schemas and migrations.
 * [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
-* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
-* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
-* [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
-* [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - 一个JSON lint工具
+* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - 验证JSONP回调的库
+* [Jumper](https://github.com/kakawait/Jumper) - 一个远程服务执行库
+* [LadyBug](https://github.com/raulfraile/Ladybug) - 一个dumper库
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
-* [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
+* [Metrics](https://github.com/beberlei/metrics) - 一个简单的度量API库
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
-* [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
+* [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - 一个分页库
 * [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
@@ -786,7 +786,7 @@ Libraries to help manage database schemas and migrations.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 * [sabre/vobject](https://github.com/fruux/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
-* [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
+* [Spork](https://github.com/kriswallsmith/spork) - 一个处理forking的库
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 * [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper/introduction.html) - A variable dumper component (SF).

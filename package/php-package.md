@@ -144,6 +144,7 @@
 | [helei112g/payment](https://github.com/helei112g/payment) | php集成支付宝（即时到帐、手机网站、移动支付、订单查询、退款、转款）. 
 | [phoenixg/omnipay-pingpp](https://github.com/phoenixg/omnipay-pingpp) |  一个基于Omnipay支持支付宝（APP、Wap、PC、即时到账、扫码、企业付款），微信（APP、公众号、红包）， 银联网关、银联企业网银、Apple Pay、QQ 钱包、易宝支付、百度钱包、京东支付、京东白条、招行一网通、分期支付等国内主流支付渠道的聚合支付网关. ||
 | [mytharcher/alipay-php-sdk](https://github.com/mytharcher/alipay-php-sdk) | 支付宝即时到账 SDK 简化版（含移动网页支付） |
+| [helei112g/payment](https://github.com/helei112g/payment) | 全面集成支付宝支付与微信支付功能 |
 | [toplan/phpsms](https://github.com/toplan/phpsms) | 可能是目前最聪明、优雅的php短信发送库了 |
 | [zqqian/baidulixiandown](https://github.com/zqqian/baidulixiandown) | 百度网盘高速下载. |
 | [NijiharaTsubasa/BaiduPanAutoReshare](https://github.com/NijiharaTsubasa/BaiduPanAutoReshare) | 百度网盘自动补档程序. |
@@ -158,6 +159,8 @@
 | [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) | PHP设计模式参考示例代码 |
 
 ### 兼容处理
+|---|   |
+|---|---|
 | [sarciszewski/php-future](https://github.com/sarciszewski/php-future) | php 5.3-5.6 的函数兼容处理|
 | [exifer/exifer](https://github.com/exifer/exifer) | 可以再php5.3 种使用EXIF|
 
