@@ -21,14 +21,17 @@
 
 
 
-### 系统生成
+### 系统生成/加密解密
 |---|   |
 |---|---|
 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | Fake 是一个为你生成假数据的PHP库，web应用生成测试数据. |
 | [nelmio/alice](https://github.com/nelmio/alice) | 又一个web应用生成测试数据包。|
 | [ramsey/uuid](https://github.com/ramsey/uuid) | PHP 5.4库 RFC 4122版本1,3,4,5 生成全局唯一标识符(UUID)。|
-| [defuse/php-encryption](https://github.com/defuse/php-encryption) | 简单的PHP加密. |
 | [ivanakimov/hashids.php](https://github.com/ivanakimov/hashids.php) |一个小型PHP库生成类似youtube数字id生成，用于隐藏数据id |
+| [defuse/php-encryption](https://github.com/defuse/php-encryption) | php加密，可用于一般加密和文件加密。|
+| [PHPAuth/PHPAuth](https://github.com/PHPAuth/PHPAuth) | PHPAuth PHP是一个安全的用户身份验证类网站,使用一个强大的密码散列系统攻击阻塞和保持你的网站和用户安全。|
+| [spatie/url-signer](https://github.com/spatie/url-signer) | 创建url签名验证有时间限制。|
+
 
 ### 文档处理
 |---|   |
@@ -50,13 +53,6 @@
 | [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) | Buzz是另一个完成HTTP请求的库. |
 | [klein/klein.php](https://github.com/klein/klein.php) | 一款针对PHP5.3+版本的轻量级路由库. |
 | [nikic/fast-route](https://github.com/nikic/FastRoute) | 这个库提供了一种基于正则表达式的路由器的快速实现. |
-
-### 解密解密与验证
-|---|   |
-|---|---|
-| [defuse/php-encryption](https://github.com/defuse/php-encryption) | php加密，可用于一般加密和文件加密。|
-| [PHPAuth/PHPAuth](https://github.com/PHPAuth/PHPAuth) | PHPAuth PHP是一个安全的用户身份验证类网站,使用一个强大的密码散列系统攻击阻塞和保持你的网站和用户安全。|
-| [spatie/url-signer](https://github.com/spatie/url-signer) | 创建url签名验证有时间限制。|
 
 
 ### 文件管理
